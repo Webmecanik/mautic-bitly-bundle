@@ -2,6 +2,8 @@
 
 Bitly integration for Mautic.
 
+Note: this plugin require Mautic 5.0.0 or higher and pull request for shortener services https://github.com/mautic/mautic/pull/12299
+
 ## Installation
 
 By composer 
