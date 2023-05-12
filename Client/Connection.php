@@ -40,7 +40,7 @@ class Connection
      */
     public function shortenUrl(string $url): \Psr\Http\Message\ResponseInterface
     {
-        $response = $this->client->post('shorten', [
+        $response = $this->getClient()->post('shorten', [
             'json' => [
                 'long_url' => $url,
             ],
