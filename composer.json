@@ -1,0 +1,18 @@
+{
+    "name": "mautic/bitly-bundle",
+    "description": "Bitly for Mautic",
+    "type": "mautic-plugin",
+    "keywords": [
+        "mautic",
+        "plugin",
+        "integration"
+    ],
+    "require": {
+        "php": ">=7.4.0 <8.1",
+        "mautic/core-lib": "^4.0"
+    },
+    "extra": {
+        "install-directory-name": "MauticBitlyBundle"
+    },
+    "minimum-stability": "dev"
+}
