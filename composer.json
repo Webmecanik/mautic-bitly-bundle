@@ -1,5 +1,5 @@
 {
-    "name": "mautic/bitly-bundle",
+    "name": "webmecanik/mautic-bitly-bundle",
     "description": "Bitly for Mautic",
     "type": "mautic-plugin",
     "keywords": [
