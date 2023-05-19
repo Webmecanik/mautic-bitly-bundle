@@ -8,7 +8,7 @@
         "integration"
     ],
     "require": {
-        "php": ">=7.4.0 <8.1",
+        "php": ">=8.0 <8.1",
         "mautic/core-lib": "^4.0"
     },
     "extra": {
