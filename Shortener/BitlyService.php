@@ -46,4 +46,9 @@ class BitlyService implements ShortenerServiceInterface
     {
         return $this->connection->isEnabled();
     }
+
+    public function getPublicName(): string
+    {
+        return 'Bitly';
+    }
 }
